@@ -7,3 +7,4 @@ vue2.0+axios+element+iconfont
 测试一
 test 2
 hotfix
+reslease 1
